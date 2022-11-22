@@ -1,2 +1,2 @@
 # Terraform_Lab2
-submission of terraform project iti Devops track
+Provisioning of Infrastruture and implementing of many resources on AWS.
